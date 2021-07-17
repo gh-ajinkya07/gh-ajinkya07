@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gh-ajinkya07
 - 👀 I’m interested in Python and Sql
 - 🌱 I’m currently learning Machine Learning and Android Development
-- 💞️ I’m looking to collaborate on with people to enhance my knowledge with them.
+- 💞️ I’m looking to collaborate on with people to enhance my knowledge about various new technology.
 - 📫 How to reach me mail me at mailajinkya07@gmail.com
 
 <!---

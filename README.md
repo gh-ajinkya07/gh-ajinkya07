@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gh-ajinkya07
+- 👋 Hi, I’m Ajinkya Patil
 - 👀 I’m interested in Python and Sql
 - 🌱 I’m currently learning Machine Learning and Android Development
 - 💞️ I’m looking to collaborate on with people to enhance my knowledge about various new technology.
